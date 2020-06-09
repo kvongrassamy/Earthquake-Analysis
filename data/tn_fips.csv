@@ -1,0 +1,443 @@
+Summary Level,State Code (FIPS),County Code (FIPS),County Subdivision Code (FIPS),Place Code (FIPS),Consolidtated City Code (FIPS),Area Name (including legal/statistical area description)
+Tennessee,47,000,00000,00000,00000,Tennessee
+Tennessee,47,001,00000,00000,00000,Anderson County
+Tennessee,47,003,00000,00000,00000,Bedford County
+Tennessee,47,005,00000,00000,00000,Benton County
+Tennessee,47,007,00000,00000,00000,Bledsoe County
+Tennessee,47,009,00000,00000,00000,Blount County
+Tennessee,47,011,00000,00000,00000,Bradley County
+Tennessee,47,013,00000,00000,00000,Campbell County
+Tennessee,47,015,00000,00000,00000,Cannon County
+Tennessee,47,017,00000,00000,00000,Carroll County
+Tennessee,47,019,00000,00000,00000,Carter County
+Tennessee,47,021,00000,00000,00000,Cheatham County
+Tennessee,47,023,00000,00000,00000,Chester County
+Tennessee,47,025,00000,00000,00000,Claiborne County
+Tennessee,47,027,00000,00000,00000,Clay County
+Tennessee,47,029,00000,00000,00000,Cocke County
+Tennessee,47,031,00000,00000,00000,Coffee County
+Tennessee,47,033,00000,00000,00000,Crockett County
+Tennessee,47,035,00000,00000,00000,Cumberland County
+Tennessee,47,037,00000,00000,00000,Davidson County
+Tennessee,47,039,00000,00000,00000,Decatur County
+Tennessee,47,041,00000,00000,00000,DeKalb County
+Tennessee,47,043,00000,00000,00000,Dickson County
+Tennessee,47,045,00000,00000,00000,Dyer County
+Tennessee,47,047,00000,00000,00000,Fayette County
+Tennessee,47,049,00000,00000,00000,Fentress County
+Tennessee,47,051,00000,00000,00000,Franklin County
+Tennessee,47,053,00000,00000,00000,Gibson County
+Tennessee,47,055,00000,00000,00000,Giles County
+Tennessee,47,057,00000,00000,00000,Grainger County
+Tennessee,47,059,00000,00000,00000,Greene County
+Tennessee,47,061,00000,00000,00000,Grundy County
+Tennessee,47,063,00000,00000,00000,Hamblen County
+Tennessee,47,065,00000,00000,00000,Hamilton County
+Tennessee,47,067,00000,00000,00000,Hancock County
+Tennessee,47,069,00000,00000,00000,Hardeman County
+Tennessee,47,071,00000,00000,00000,Hardin County
+Tennessee,47,073,00000,00000,00000,Hawkins County
+Tennessee,47,075,00000,00000,00000,Haywood County
+Tennessee,47,077,00000,00000,00000,Henderson County
+Tennessee,47,079,00000,00000,00000,Henry County
+Tennessee,47,081,00000,00000,00000,Hickman County
+Tennessee,47,083,00000,00000,00000,Houston County
+Tennessee,47,085,00000,00000,00000,Humphreys County
+Tennessee,47,087,00000,00000,00000,Jackson County
+Tennessee,47,089,00000,00000,00000,Jefferson County
+Tennessee,47,091,00000,00000,00000,Johnson County
+Tennessee,47,093,00000,00000,00000,Knox County
+Tennessee,47,095,00000,00000,00000,Lake County
+Tennessee,47,097,00000,00000,00000,Lauderdale County
+Tennessee,47,099,00000,00000,00000,Lawrence County
+Tennessee,47,101,00000,00000,00000,Lewis County
+Tennessee,47,103,00000,00000,00000,Lincoln County
+Tennessee,47,105,00000,00000,00000,Loudon County
+Tennessee,47,107,00000,00000,00000,McMinn County
+Tennessee,47,109,00000,00000,00000,McNairy County
+Tennessee,47,111,00000,00000,00000,Macon County
+Tennessee,47,113,00000,00000,00000,Madison County
+Tennessee,47,115,00000,00000,00000,Marion County
+Tennessee,47,117,00000,00000,00000,Marshall County
+Tennessee,47,119,00000,00000,00000,Maury County
+Tennessee,47,121,00000,00000,00000,Meigs County
+Tennessee,47,123,00000,00000,00000,Monroe County
+Tennessee,47,125,00000,00000,00000,Montgomery County
+Tennessee,47,127,00000,00000,00000,Moore County
+Tennessee,47,129,00000,00000,00000,Morgan County
+Tennessee,47,131,00000,00000,00000,Obion County
+Tennessee,47,133,00000,00000,00000,Overton County
+Tennessee,47,135,00000,00000,00000,Perry County
+Tennessee,47,137,00000,00000,00000,Pickett County
+Tennessee,47,139,00000,00000,00000,Polk County
+Tennessee,47,141,00000,00000,00000,Putnam County
+Tennessee,47,143,00000,00000,00000,Rhea County
+Tennessee,47,145,00000,00000,00000,Roane County
+Tennessee,47,147,00000,00000,00000,Robertson County
+Tennessee,47,149,00000,00000,00000,Rutherford County
+Tennessee,47,151,00000,00000,00000,Scott County
+Tennessee,47,153,00000,00000,00000,Sequatchie County
+Tennessee,47,155,00000,00000,00000,Sevier County
+Tennessee,47,157,00000,00000,00000,Shelby County
+Tennessee,47,159,00000,00000,00000,Smith County
+Tennessee,47,161,00000,00000,00000,Stewart County
+Tennessee,47,163,00000,00000,00000,Sullivan County
+Tennessee,47,165,00000,00000,00000,Sumner County
+Tennessee,47,167,00000,00000,00000,Tipton County
+Tennessee,47,169,00000,00000,00000,Trousdale County
+Tennessee,47,171,00000,00000,00000,Unicoi County
+Tennessee,47,173,00000,00000,00000,Union County
+Tennessee,47,175,00000,00000,00000,Van Buren County
+Tennessee,47,177,00000,00000,00000,Warren County
+Tennessee,47,179,00000,00000,00000,Washington County
+Tennessee,47,181,00000,00000,00000,Wayne County
+Tennessee,47,183,00000,00000,00000,Weakley County
+Tennessee,47,185,00000,00000,00000,White County
+Tennessee,47,187,00000,00000,00000,Williamson County
+Tennessee,47,189,00000,00000,00000,Wilson County
+Tennessee,47,000,00000,00200,00000,Adams city
+Tennessee,47,000,00000,00240,00000,Adamsville town
+Tennessee,47,000,00000,00440,00000,Alamo town
+Tennessee,47,000,00000,00540,00000,Alcoa city
+Tennessee,47,000,00000,00620,00000,Alexandria town
+Tennessee,47,000,00000,00640,00000,Algood city
+Tennessee,47,000,00000,00660,00000,Allardt city
+Tennessee,47,000,00000,00940,00000,Altamont town
+Tennessee,47,000,00000,01640,00000,Ardmore city
+Tennessee,47,000,00000,01740,00000,Arlington town
+Tennessee,47,000,00000,02180,00000,Ashland City town
+Tennessee,47,000,00000,02320,00000,Athens city
+Tennessee,47,000,00000,02340,00000,Atoka town
+Tennessee,47,000,00000,02380,00000,Atwood town
+Tennessee,47,000,00000,02400,00000,Auburntown town
+Tennessee,47,000,00000,02780,00000,Baileyton town
+Tennessee,47,000,00000,03078,00000,Baneberry city
+Tennessee,47,000,00000,03440,00000,Bartlett city
+Tennessee,47,000,00000,03680,00000,Baxter town
+Tennessee,47,000,00000,03760,00000,Bean Station city
+Tennessee,47,000,00000,04240,00000,Beersheba Springs town
+Tennessee,47,000,00000,04460,00000,Bell Buckle town
+Tennessee,47,000,00000,04620,00000,Belle Meade city
+Tennessee,47,000,00000,04720,00000,Bells city
+Tennessee,47,000,00000,05040,00000,Benton town
+Tennessee,47,000,00000,05140,00000,Berry Hill city
+Tennessee,47,000,00000,05380,00000,Bethel Springs town
+Tennessee,47,000,00000,05860,00000,Big Sandy town
+Tennessee,47,000,00000,06340,00000,Blaine city
+Tennessee,47,000,00000,06960,00000,Bluff City city
+Tennessee,47,000,00000,07180,00000,Bolivar city
+Tennessee,47,000,00000,07840,00000,Braden town
+Tennessee,47,000,00000,07860,00000,Bradford town
+Tennessee,47,000,00000,08280,00000,Brentwood city
+Tennessee,47,000,00000,08500,00000,Brighton town
+Tennessee,47,000,00000,08540,00000,Bristol city
+Tennessee,47,000,00000,08920,00000,Brownsville city
+Tennessee,47,000,00000,08960,00000,Bruceton town
+Tennessee,47,000,00000,09560,00000,Bulls Gap town
+Tennessee,47,000,00000,09860,00000,Burlison town
+Tennessee,47,000,00000,09880,00000,Burns town
+Tennessee,47,000,00000,10180,00000,Byrdstown town
+Tennessee,47,000,00000,10440,00000,Calhoun town
+Tennessee,47,000,00000,10560,00000,Camden city
+Tennessee,47,000,00000,11280,00000,Carthage town
+Tennessee,47,000,00000,11360,00000,Caryville town
+Tennessee,47,000,00000,11980,00000,Cedar Hill city
+Tennessee,47,000,00000,12100,00000,Celina city
+Tennessee,47,000,00000,12380,00000,Centertown town
+Tennessee,47,000,00000,12420,00000,Centerville town
+Tennessee,47,000,00000,12880,00000,Chapel Hill town
+Tennessee,47,000,00000,13020,00000,Charleston city
+Tennessee,47,000,00000,13080,00000,Charlotte town
+Tennessee,47,000,00000,14000,00000,Chattanooga city
+Tennessee,47,000,00000,14980,00000,Church Hill city
+Tennessee,47,000,00000,15140,00000,Clarksburg town
+Tennessee,47,000,00000,15160,00000,Clarksville city
+Tennessee,47,000,00000,15400,00000,Cleveland city
+Tennessee,47,000,00000,15480,00000,Clifton city
+Tennessee,47,000,00000,15580,00000,Clinton city
+Tennessee,47,000,00000,15920,00000,Coalmont city
+Tennessee,47,000,00000,16300,00000,Collegedale city
+Tennessee,47,000,00000,16420,00000,Collierville town
+Tennessee,47,000,00000,16480,00000,Collinwood city
+Tennessee,47,000,00000,16540,00000,Columbia city
+Tennessee,47,000,00000,16920,00000,Cookeville city
+Tennessee,47,000,00000,16980,00000,Coopertown town
+Tennessee,47,000,00000,17000,00000,Copperhill city
+Tennessee,47,000,00000,17180,00000,Cornersville town
+Tennessee,47,000,00000,17340,00000,Cottage Grove town
+Tennessee,47,000,00000,17680,00000,Covington city
+Tennessee,47,000,00000,17700,00000,Cowan city
+Tennessee,47,000,00000,17840,00000,Crab Orchard city
+Tennessee,47,000,00000,18420,00000,Cross Plains city
+Tennessee,47,000,00000,18540,00000,Crossville city
+Tennessee,47,000,00000,18620,00000,Crump city
+Tennessee,47,000,00000,18820,00000,Cumberland City town
+Tennessee,47,000,00000,18880,00000,Cumberland Gap town
+Tennessee,47,000,00000,19380,00000,Dandridge town
+Tennessee,47,000,00000,19700,00000,Dayton city
+Tennessee,47,000,00000,19880,00000,Decatur town
+Tennessee,47,000,00000,19900,00000,Decaturville town
+Tennessee,47,000,00000,19920,00000,Decherd city
+Tennessee,47,000,00000,20620,00000,Dickson city
+Tennessee,47,000,00000,21400,00000,Dover city
+Tennessee,47,000,00000,21420,00000,Dowelltown town
+Tennessee,47,000,00000,21500,00000,Doyle town
+Tennessee,47,000,00000,21540,00000,Dresden town
+Tennessee,47,000,00000,21740,00000,Ducktown city
+Tennessee,47,000,00000,22000,00000,Dunlap city
+Tennessee,47,000,00000,22180,00000,Dyer city
+Tennessee,47,000,00000,22200,00000,Dyersburg city
+Tennessee,47,000,00000,22360,00000,Eagleville city
+Tennessee,47,000,00000,22720,00000,East Ridge city
+Tennessee,47,000,00000,22920,00000,Eastview town
+Tennessee,47,000,00000,23500,00000,Elizabethton city
+Tennessee,47,000,00000,23660,00000,Elkton city
+Tennessee,47,000,00000,24040,00000,Englewood town
+Tennessee,47,000,00000,24240,00000,Enville town
+Tennessee,47,000,00000,24320,00000,Erin city
+Tennessee,47,000,00000,24360,00000,Erwin town
+Tennessee,47,000,00000,24440,00000,Estill Springs town
+Tennessee,47,000,00000,24460,00000,Ethridge town
+Tennessee,47,000,00000,24480,00000,Etowah city
+Tennessee,47,000,00000,25440,00000,Fairview city
+Tennessee,47,000,00000,25760,00000,Farragut town
+Tennessee,47,000,00000,25920,00000,Fayetteville city
+Tennessee,47,000,00000,26160,00000,Finger city
+Tennessee,47,000,00000,27020,00000,Forest Hills city
+Tennessee,47,000,00000,27740,00000,Franklin city
+Tennessee,47,000,00000,27960,00000,Friendship city
+Tennessee,47,000,00000,28060,00000,Friendsville city
+Tennessee,47,000,00000,28380,00000,Gadsden town
+Tennessee,47,000,00000,28420,00000,Gainesboro town
+Tennessee,47,000,00000,28540,00000,Gallatin city
+Tennessee,47,000,00000,28560,00000,Gallaway city
+Tennessee,47,000,00000,28680,00000,Garland town
+Tennessee,47,000,00000,28740,00000,Gates town
+Tennessee,47,000,00000,28800,00000,Gatlinburg city
+Tennessee,47,000,00000,28960,00000,Germantown city
+Tennessee,47,000,00000,29020,00000,Gibson town
+Tennessee,47,000,00000,29160,00000,Gilt Edge city
+Tennessee,47,000,00000,29300,00000,Gleason town
+Tennessee,47,000,00000,29920,00000,Goodlettsville city
+Tennessee,47,000,00000,30120,00000,Gordonsville town
+Tennessee,47,000,00000,30280,00000,Grand Junction city
+Tennessee,47,000,00000,30760,00000,Graysville town
+Tennessee,47,000,00000,30880,00000,Greenback city
+Tennessee,47,000,00000,30960,00000,Greenbrier town
+Tennessee,47,000,00000,30980,00000,Greeneville town
+Tennessee,47,000,00000,31000,00000,Greenfield city
+Tennessee,47,000,00000,31490,00000,Gruetli-Laager city
+Tennessee,47,000,00000,31680,00000,Guys town
+Tennessee,47,000,00000,31820,00000,Halls town
+Tennessee,47,000,00000,32520,00000,Harriman city
+Tennessee,47,000,00000,32640,00000,Harrogate city
+Tennessee,47,000,00000,32742,00000,Hartsville/Trousdale County
+Tennessee,47,000,00000,33260,00000,Henderson city
+Tennessee,47,000,00000,33280,00000,Hendersonville city
+Tennessee,47,000,00000,33360,00000,Henning town
+Tennessee,47,000,00000,33400,00000,Henry town
+Tennessee,47,000,00000,33920,00000,Hickory Valley town
+Tennessee,47,000,00000,35160,00000,Hohenwald city
+Tennessee,47,000,00000,35280,00000,Hollow Rock town
+Tennessee,47,000,00000,36000,00000,Hornbeak town
+Tennessee,47,000,00000,36080,00000,Hornsby town
+Tennessee,47,000,00000,36460,00000,Humboldt city
+Tennessee,47,000,00000,36580,00000,Huntingdon town
+Tennessee,47,000,00000,36600,00000,Huntland town
+Tennessee,47,000,00000,36640,00000,Huntsville town
+Tennessee,47,000,00000,37600,00000,Jacksboro town
+Tennessee,47,000,00000,37640,00000,Jackson city
+Tennessee,47,000,00000,37780,00000,Jamestown city
+Tennessee,47,000,00000,37820,00000,Jasper town
+Tennessee,47,000,00000,37960,00000,Jefferson City city
+Tennessee,47,000,00000,38020,00000,Jellico city
+Tennessee,47,000,00000,38320,00000,Johnson City city
+Tennessee,47,000,00000,38540,00000,Jonesborough town
+Tennessee,47,000,00000,39140,00000,Kenton town
+Tennessee,47,000,00000,39400,00000,Kimball town
+Tennessee,47,000,00000,39560,00000,Kingsport city
+Tennessee,47,000,00000,39620,00000,Kingston city
+Tennessee,47,000,00000,39660,00000,Kingston Springs town
+Tennessee,47,000,00000,40000,00000,Knoxville city
+Tennessee,47,000,00000,40160,00000,Lafayette city
+Tennessee,47,000,00000,40180,00000,La Follette city
+Tennessee,47,000,00000,40200,00000,La Grange town
+Tennessee,47,000,00000,40240,00000,Lake City city
+Tennessee,47,000,00000,40350,00000,Lakeland city
+Tennessee,47,000,00000,40540,00000,Lakesite city
+Tennessee,47,000,00000,41200,00000,La Vergne city
+Tennessee,47,000,00000,41340,00000,Lawrenceburg city
+Tennessee,47,000,00000,41520,00000,Lebanon city
+Tennessee,47,000,00000,41760,00000,Lenoir City city
+Tennessee,47,000,00000,41860,00000,Lewisburg city
+Tennessee,47,000,00000,41980,00000,Lexington city
+Tennessee,47,000,00000,42040,00000,Liberty town
+Tennessee,47,000,00000,42720,00000,Linden town
+Tennessee,47,000,00000,43140,00000,Livingston town
+Tennessee,47,000,00000,43160,00000,Lobelville city
+Tennessee,47,000,00000,43640,00000,Lookout Mountain town
+Tennessee,47,000,00000,43700,00000,Loretto city
+Tennessee,47,000,00000,43780,00000,Loudon town
+Tennessee,47,000,00000,43820,00000,Louisville city
+Tennessee,47,000,00000,44300,00000,Luttrell town
+Tennessee,47,000,00000,44382,00000,"Lynchburg, Moore County metropolitan government"
+Tennessee,47,000,00000,44420,00000,Lynnville town
+Tennessee,47,000,00000,44840,00000,McEwen city
+Tennessee,47,000,00000,44940,00000,McKenzie city
+Tennessee,47,000,00000,45000,00000,McLemoresville town
+Tennessee,47,000,00000,45100,00000,McMinnville city
+Tennessee,47,000,00000,45320,00000,Madisonville city
+Tennessee,47,000,00000,45500,00000,Manchester city
+Tennessee,47,000,00000,46240,00000,Martin city
+Tennessee,47,000,00000,46380,00000,Maryville city
+Tennessee,47,000,00000,46420,00000,Mason town
+Tennessee,47,000,00000,46540,00000,Maury City town
+Tennessee,47,000,00000,46700,00000,Maynardville city
+Tennessee,47,000,00000,47000,00000,Medina city
+Tennessee,47,000,00000,47020,00000,Medon city
+Tennessee,47,000,00000,48000,00000,Memphis city
+Tennessee,47,000,00000,48180,00000,Michie town
+Tennessee,47,000,00000,48340,00000,Middleton city
+Tennessee,47,000,00000,48660,00000,Milan city
+Tennessee,47,000,00000,48920,00000,Milledgeville town
+Tennessee,47,000,00000,48980,00000,Millersville city
+Tennessee,47,000,00000,49060,00000,Millington city
+Tennessee,47,000,00000,49360,00000,Minor Hill city
+Tennessee,47,000,00000,49460,00000,Mitchellville city
+Tennessee,47,000,00000,49740,00000,Monteagle town
+Tennessee,47,000,00000,49760,00000,Monterey town
+Tennessee,47,000,00000,50220,00000,Morrison town
+Tennessee,47,000,00000,50280,00000,Morristown city
+Tennessee,47,000,00000,50300,00000,Moscow city
+Tennessee,47,000,00000,50320,00000,Mosheim town
+Tennessee,47,000,00000,50400,00000,Mountain City town
+Tennessee,47,000,00000,50580,00000,Mount Carmel town
+Tennessee,47,000,00000,50780,00000,Mount Juliet city
+Tennessee,47,000,00000,51080,00000,Mount Pleasant city
+Tennessee,47,000,00000,51540,00000,Munford city
+Tennessee,47,000,00000,51560,00000,Murfreesboro city
+Tennessee,47,000,00000,52006,00000,Nashville-Davidson metropolitan government (balance)
+Tennessee,47,000,00000,52400,00000,Newbern town
+Tennessee,47,000,00000,52780,00000,New Hope city
+Tennessee,47,000,00000,52820,00000,New Johnsonville city
+Tennessee,47,000,00000,52940,00000,New Market town
+Tennessee,47,000,00000,53000,00000,Newport city
+Tennessee,47,000,00000,53140,00000,New Tazewell town
+Tennessee,47,000,00000,53380,00000,Niota city
+Tennessee,47,000,00000,53460,00000,Nolensville town
+Tennessee,47,000,00000,53580,00000,Normandy town
+Tennessee,47,000,00000,53600,00000,Norris city
+Tennessee,47,000,00000,54280,00000,Oakdale town
+Tennessee,47,000,00000,54780,00000,Oak Hill city
+Tennessee,47,000,00000,54920,00000,Oakland town
+Tennessee,47,000,00000,55120,00000,Oak Ridge city
+Tennessee,47,000,00000,55240,00000,Obion town
+Tennessee,47,000,00000,55800,00000,Oliver Springs town
+Tennessee,47,000,00000,55860,00000,Oneida town
+Tennessee,47,000,00000,56020,00000,Orlinda city
+Tennessee,47,000,00000,56040,00000,Orme town
+Tennessee,47,000,00000,56560,00000,Palmer town
+Tennessee,47,000,00000,56720,00000,Paris city
+Tennessee,47,000,00000,56870,00000,Parker's Crossroads city
+Tennessee,47,000,00000,57040,00000,Parrottsville town
+Tennessee,47,000,00000,57080,00000,Parsons city
+Tennessee,47,000,00000,57480,00000,Pegram town
+Tennessee,47,000,00000,57740,00000,Petersburg town
+Tennessee,47,000,00000,57900,00000,Philadelphia city
+Tennessee,47,000,00000,58080,00000,Pigeon Forge city
+Tennessee,47,000,00000,58120,00000,Pikeville city
+Tennessee,47,000,00000,58840,00000,Piperton city
+Tennessee,47,000,00000,58940,00000,Pittman Center town
+Tennessee,47,000,00000,59020,00000,Plainview city
+Tennessee,47,000,00000,59240,00000,Pleasant Hill town
+Tennessee,47,000,00000,59560,00000,Pleasant View city
+Tennessee,47,000,00000,60280,00000,Portland city
+Tennessee,47,000,00000,60500,00000,Powells Crossroads town
+Tennessee,47,000,00000,61040,00000,Pulaski city
+Tennessee,47,000,00000,61160,00000,Puryear city
+Tennessee,47,000,00000,61520,00000,Ramer city
+Tennessee,47,000,00000,61960,00000,Red Bank city
+Tennessee,47,000,00000,62000,00000,Red Boiling Springs city
+Tennessee,47,000,00000,63060,00000,Ridgely town
+Tennessee,47,000,00000,63080,00000,Ridgeside city
+Tennessee,47,000,00000,63140,00000,Ridgetop city
+Tennessee,47,000,00000,63340,00000,Ripley city
+Tennessee,47,000,00000,63800,00000,Rives town
+Tennessee,47,000,00000,64160,00000,Rockford city
+Tennessee,47,000,00000,64440,00000,Rockwood city
+Tennessee,47,000,00000,64820,00000,Rogersville town
+Tennessee,47,000,00000,65240,00000,Rossville town
+Tennessee,47,000,00000,65760,00000,Rutherford town
+Tennessee,47,000,00000,65820,00000,Rutledge town
+Tennessee,47,000,00000,66160,00000,St. Joseph city
+Tennessee,47,000,00000,66340,00000,Saltillo town
+Tennessee,47,000,00000,66360,00000,Samburg town
+Tennessee,47,000,00000,66660,00000,Sardis town
+Tennessee,47,000,00000,66680,00000,Saulsbury town
+Tennessee,47,000,00000,66720,00000,Savannah city
+Tennessee,47,000,00000,66880,00000,Scotts Hill town
+Tennessee,47,000,00000,66940,00000,Selmer town
+Tennessee,47,000,00000,67120,00000,Sevierville city
+Tennessee,47,000,00000,67540,00000,Sharon town
+Tennessee,47,000,00000,67760,00000,Shelbyville city
+Tennessee,47,000,00000,68540,00000,Signal Mountain town
+Tennessee,47,000,00000,68560,00000,Silerton town
+Tennessee,47,000,00000,69080,00000,Slayden town
+Tennessee,47,000,00000,69320,00000,Smithville city
+Tennessee,47,000,00000,69420,00000,Smyrna town
+Tennessee,47,000,00000,69460,00000,Sneedville town
+Tennessee,47,000,00000,69560,00000,Soddy-Daisy city
+Tennessee,47,000,00000,69620,00000,Somerville town
+Tennessee,47,000,00000,69680,00000,South Carthage town
+Tennessee,47,000,00000,69900,00000,South Fulton city
+Tennessee,47,000,00000,70060,00000,South Pittsburg city
+Tennessee,47,000,00000,70180,00000,Sparta city
+Tennessee,47,000,00000,70240,00000,Spencer town
+Tennessee,47,000,00000,70400,00000,Spring City town
+Tennessee,47,000,00000,70500,00000,Springfield city
+Tennessee,47,000,00000,70580,00000,Spring Hill city
+Tennessee,47,000,00000,70820,00000,Stanton town
+Tennessee,47,000,00000,70840,00000,Stantonville town
+Tennessee,47,000,00000,72140,00000,Sunbright city
+Tennessee,47,000,00000,72380,00000,Surgoinsville town
+Tennessee,47,000,00000,72540,00000,Sweetwater city
+Tennessee,47,000,00000,73120,00000,Tazewell town
+Tennessee,47,000,00000,73260,00000,Tellico Plains town
+Tennessee,47,000,00000,73460,00000,Tennessee Ridge town
+Tennessee,47,000,00000,73900,00000,Thompson's Station town
+Tennessee,47,000,00000,74100,00000,Three Way city
+Tennessee,47,000,00000,74540,00000,Tiptonville town
+Tennessee,47,000,00000,74640,00000,Toone town
+Tennessee,47,000,00000,74860,00000,Townsend city
+Tennessee,47,000,00000,74880,00000,Tracy City town
+Tennessee,47,000,00000,75000,00000,Trenton city
+Tennessee,47,000,00000,75100,00000,Trezevant town
+Tennessee,47,000,00000,75160,00000,Trimble town
+Tennessee,47,000,00000,75240,00000,Troy town
+Tennessee,47,000,00000,75320,00000,Tullahoma city
+Tennessee,47,000,00000,75560,00000,Tusculum city
+Tennessee,47,000,00000,75820,00000,Unicoi town
+Tennessee,47,000,00000,75940,00000,Union City city
+Tennessee,47,000,00000,76860,00000,Vanleer town
+Tennessee,47,000,00000,77400,00000,Viola town
+Tennessee,47,000,00000,77480,00000,Vonore town
+Tennessee,47,000,00000,77540,00000,Walden town
+Tennessee,47,000,00000,78100,00000,Wartburg city
+Tennessee,47,000,00000,78120,00000,Wartrace town
+Tennessee,47,000,00000,78240,00000,Watauga city
+Tennessee,47,000,00000,78320,00000,Watertown city
+Tennessee,47,000,00000,78560,00000,Waverly city
+Tennessee,47,000,00000,78600,00000,Waynesboro city
+Tennessee,47,000,00000,79420,00000,Westmoreland town
+Tennessee,47,000,00000,79980,00000,White Bluff town
+Tennessee,47,000,00000,80200,00000,White House city
+Tennessee,47,000,00000,80360,00000,White Pine town
+Tennessee,47,000,00000,80540,00000,Whiteville town
+Tennessee,47,000,00000,80620,00000,Whitwell city
+Tennessee,47,000,00000,81020,00000,Williston city
+Tennessee,47,000,00000,81080,00000,Winchester city
+Tennessee,47,000,00000,81280,00000,Winfield town
+Tennessee,47,000,00000,81560,00000,Woodbury town
+Tennessee,47,000,00000,81700,00000,Woodland Mills city
+Tennessee,47,000,00000,82360,00000,Yorkville city
+Tennessee,47,000,00000,00000,52004,Nashville-Davidson metropolitan government
